@@ -5,8 +5,16 @@
 # In Ruby, there are different *types* of data:
 
 # Numbers
+# 3 + 4
+# puts 3 * 4
+# puts 5 / 2
+# puts 5 % 2
+# puts 5 / 2.0
 
 # Non-numbers
+
+# puts "hello world"
+
 
 # True, False
 
@@ -14,6 +22,17 @@
 
 # Variables
 
+x = 2
+y = 5 
+puts x*y
+
 # Combine strings and variables
 
+name = "Ben"
+#concatination
+puts "Hello, " + name
+#interpolation
+puts "Hello, #{x}"
+
 # String manipulation
+puts name.manipulation

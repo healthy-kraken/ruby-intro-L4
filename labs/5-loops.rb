@@ -10,6 +10,15 @@ diamonds = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 hearts = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 spades = [2, 3, 4, 5, 6, 7, 8, 9, 10, "Jack", "Queen", "King", "Ace"]
 
+#Step 1.
+#for ranks in ranks
+# put ranks with the suit
+#
+
+#Step 2.
+#for suit in suits
+# put rank with suit 
+
 # Sample output:
 # 2 of Clubs
 # 3 of Clubs
